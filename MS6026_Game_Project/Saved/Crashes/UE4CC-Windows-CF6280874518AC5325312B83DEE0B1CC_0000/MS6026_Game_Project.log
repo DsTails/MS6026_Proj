@@ -1,0 +1,1789 @@
+﻿Log file open, 12/01/21 13:22:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MS6026_Game_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.841790
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.12.01-13.22.51:885][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.01-13.22.51:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:886][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.01-13.22.51:891][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.01-13.22.51:892][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.01-13.22.51:892][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.01-13.22.51:892][  0]LogHAL: Display: Platform has ~ 16 GB [17104146432 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.01-13.22.51:892][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.01-13.22.51:892][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MS6026_Game_Project/Saved/Config/Windows/Scalability.ini]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.01-13.22.51:893][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MS6026_Game_Project/Saved/Config/Windows/Engine.ini]
+[2021.12.01-13.22.51:893][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MS6026_Game_Project/Saved/Config/Windows/Editor.ini]
+[2021.12.01-13.22.51:893][  0]LogInit: Computer: DESKTOP-V7FN6FK
+[2021.12.01-13.22.51:893][  0]LogInit: User: 12sha
+[2021.12.01-13.22.51:893][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.01-13.22.51:893][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.01-13.22.51:894][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.01-13.22.51:894][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.01-13.22.51:894][  0]LogMemory: Process Physical Memory: 146.90 MB used, 146.90 MB peak
+[2021.12.01-13.22.51:894][  0]LogMemory: Process Virtual Memory: 127.53 MB used, 127.53 MB peak
+[2021.12.01-13.22.51:894][  0]LogMemory: Physical Memory: 9734.62 MB used,  6577.17 MB free, 16311.79 MB total
+[2021.12.01-13.22.51:894][  0]LogMemory: Virtual Memory: 134211016.00 MB used,  6708.39 MB free, 134217728.00 MB total
+[2021.12.01-13.22.51:898][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.01-13.22.52:229][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.01-13.22.52:245][  0]LogInit: Using OS detected language (en-GB).
+[2021.12.01-13.22.52:245][  0]LogInit: Using OS detected locale (en-GB).
+[2021.12.01-13.22.52:345][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.12.01-13.22.52:891][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.01-13.22.52:916][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.01-13.22.53:100][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.01-13.22.53:100][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.01-13.22.55:498][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.01-13.22.55:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.01-13.22.55:500][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.01-13.22.55:500][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.01-13.22.55:500][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.01-13.22.55:533][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2021.12.01-13.22.55:533][  0]LogD3D11RHI:       8151/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     Description : AMD Radeon RX 5700 XT
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     DeviceId    : 731f
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     SubSysId    : 38161462
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     Revision    : 00c1
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     DedicatedVideoMemory : 8547893248 bytes
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     SharedSystemMemory : 8552073216 bytes
+[2021.12.01-13.22.55:535][  0]LogD3D11RHI:     AdapterLuid : 0 50799
+[2021.12.01-13.22.55:545][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.01-13.22.55:545][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.12.01-13.22.55:546][  0]LogWindows: EnumDisplayDevices:
+[2021.12.01-13.22.55:546][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2021.12.01-13.22.55:546][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:546][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:546][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:547][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:547][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:547][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.12.01-13.22.55:547][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2021.12.01-13.22.55:547][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2021.12.01-13.22.55:547][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.10.2 (internal:30.0.13025.5005, unified:30.0.13025.5005)
+[2021.12.01-13.22.55:547][  0]LogD3D11RHI:      Driver Date: 10-5-2021
+[2021.12.01-13.22.55:547][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     Description : AMD Radeon RX 5700 XT
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     DeviceId    : 731f
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     SubSysId    : 38161462
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     Revision    : 00c1
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     DedicatedVideoMemory : 8547893248 bytes
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     SharedSystemMemory : 8552073216 bytes
+[2021.12.01-13.22.55:564][  0]LogD3D11RHI:     AdapterLuid : 0 50799
+[2021.12.01-13.22.55:592][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2021.12.01-13.22.55:592][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.01-13.22.55:592][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.01-13.22.55:592][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.01-13.22.55:603][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.12.01-13.22.56:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.01-13.22.56:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.01-13.22.56:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.01-13.22.56:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.01-13.22.56:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.01-13.22.56:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.01-13.22.56:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.01-13.22.56:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.01-13.22.56:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.01-13.22.56:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.01-13.22.56:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.01-13.22.56:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.01-13.22.56:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.01-13.22.56:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.01-13.22.56:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.01-13.22.56:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.01-13.22.56:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.01-13.22.56:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.01-13.22.56:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.01-13.22.56:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.01-13.22.56:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.01-13.22.57:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.01-13.22.57:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.01-13.22.57:081][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.01-13.22.57:194][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.01-13.22.57:442][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.01-13.22.57:654][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.01-13.22.57:654][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../../MS6026_Game_Project/Intermediate/Shaders/WorkingDirectory/19988/).
+[2021.12.01-13.22.57:654][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/12sha/AppData/Local/Temp/UnrealShaderWorkingDir/D4CB392B473AE0CAD0B0B9B322BF1F7E/'.
+[2021.12.01-13.22.57:654][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.01-13.22.57:654][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.01-13.22.57:654][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.01-13.23.01:044][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: Loaded boot cache 0.31s 103MB C:/Users/12sha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/12sha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../MS6026_Game_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../MS6026_Game_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.01-13.23.01:355][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.01-13.23.01:493][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.01-13.23.01:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.01-13.23.01:493][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.01-13.23.01:509][  0]LogDerivedDataCache: Speed tests for C:/Users/12sha/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.12.01-13.23.01:509][  0]LogDerivedDataCache: Display: Performance to C:/Users/12sha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=101.33MBs, RandomWriteSpeed=181.28MBs. Assigned SpeedClass 'Local'
+[2021.12.01-13.23.01:509][  0]LogDerivedDataCache: Using Local data cache path C:/Users/12sha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.01-13.23.01:509][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.01-13.23.01:509][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.01-13.23.01:554][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.01-13.23.01:555][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.01-13.23.01:739][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.12.01-13.23.02:047][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.01-13.23.02:047][  0]LogInit: Active device profile: [000002C04D5F8F00][000002C04E2EE300 49] Windows
+[2021.12.01-13.23.02:047][  0]LogInit: Profiles: [000002C04D5F8F00][000002C04E2EE300 49] Windows, [000002C04D5AAA00][000002C040DEE480 49] WindowsNoEditor, [000002C04D5F9F00][000002C04E2F25C0 49] WindowsServer, [000002C04D5A9B00][000002C040DF2700 49] WindowsClient, [000002C04D5F9200][000002C040DF6840 49] IOS, [000002C04D5A9800][000002C040DFA980 49] iPadAir, [000002C04D5FB300][000002C040E02B00 49] iPadAir2, [000002C04E969300][000002C040E0ADC0 49] IPadPro, [000002C04E969400][000002C040E06E00 49] iPadAir3, [000002C04D5A8B00][000002C040E0EF80 49] iPadAir4, [000002C04E96A100][000002C040E13100 49] iPadMini2, [000002C04D5ABA00][000002C040E17280 49] iPadMini3, [000002C04E96AC00][000002C040E1B400 49] iPadMini4, [000002C04D5AAC00][000002C040E1F580 49] iPadMini5, [000002C04D580E00][000002C04CE95840 49] iPhone6, [000002C04D580F00][000002C040E23880 49] iPodTouch6, [000002C04D5FB700][000002C04CE9DB40 49] iPhone7, [000002C04D5FA800][000002C04CE99B80 49] iPodTouch7, [000002C04E969100][000002C04CEA0180 49] iPhone5S, [000002C04D5F9100][000002C04CEA4300 49] iPhone6Plus, [000002C04E96AA00][000002C04CEA8480 49] iPhone6S, [000002C04D5F9A00][000002C04CEAC600 49] iPhone6SPlus, [000002C04D580100][000002C040DFE740 49] iPhone7Plus, [000002C04E969D00][000002C04CEB0880 49] iPhoneSE, [000002C04D580C00][000002C04CEB49C0 49] iPhone8, [000002C04E968400][000002C04CEB8B00 49] iPhone8Plus, [000002C04D582A00][000002C04CEC0C80 49] iPhoneX, [000002C04E96BC00][000002C04CEC4E00 49] iPhoneXS, [000002C04D582900][000002C04CEC8F80 49] iPhoneXSMax, [000002C04E968B00][000002C04CECD100 49] iPhoneXR, [000002C04D5FB800][000002C04CED1280 49] iPhone11, [000002C04E96BD00][000002C04CED5400 49] iPhone11Pro, [000002C04D5F9B00][000002C04CED9580 49] iPhone11ProMax, [000002C04E969500][000002C04CD51700 49] iPhoneSE2, [000002C04D5F9E00][000002C04CD55880 49] iPhone12Mini, [000002C04E96B100][000002C04CD59A00 49] iPhone12, [000002C04D5FB400][000002C04CD5DB80 49] iPhone12Pro, [000002C04E968D00][000002C04CD60180 49] iPhone12ProMax, [000002C04D5FBC00][000002C04CD64300 49] iPadPro105, [000002C04E96B700][000002C04CD68480 49] iPadPro129, [000002C04D5FAA00][000002C04CD6C600 49] iPadPro97, [000002C04E968900][000002C04CD70780 49] iPadPro2_129, [000002C04D5F8800][000002C04CD74900 49] iPad5, [000002C04E969000][000002C04CEBCA40 49] iPad6, [000002C04D5F8400][000002C04CD78B80 49] iPad7, [000002C04E96AB00][000002C04CD7CCC0 49] iPad8, [000002C04D5FB500][000002C04CD84E40 49] iPadPro11, [000002C04E969800][000002C04CD88FC0 49] iPadPro2_11, [000002C04D5F8900][000002C04CD8D140 49] iPadPro3_129, [000002C04E96A800][000002C04CD912C0 49] iPadPro4_129, [000002C04D5FAE00][000002C04CD95440 49] AppleTV, [000002C04E96BE00][000002C04CD995C0 49] AppleTV4K, [000002C04D5F8500][000002C04CE25740 49] TVOS, [000002C04E969700][000002C04CE298C0 49] Mac, [000002C04D5FA300][000002C04CE2DA40 49] MacClient, [000002C04E968800][000002C04CE31BC0 49] MacNoEditor, [000002C04D5F9000][000002C04CE341C0 49] MacServer, [000002C04E968500][000002C04CE38340 49] Linux, [000002C04D5FAB00][000002C04CE3C4C0 49] LinuxAArch64, [000002C04E969600][000002C04CE40640 49] LinuxNoEditor, [000002C04D5FA100][000002C04CE447C0 49] LinuxAArch64NoEditor, [000002C04E96B900][000002C04CE48940 49] LinuxClient, [000002C04D5FA600][000002C04CE4CAC0 49] LinuxAArch64Client, [000002C04E96A300][000002C04CD80C00 49] LinuxServer, [000002C04D5F8700][000002C04CE50D40 49] LinuxAArch64Server, [000002C04E969A00][000002C04CE54E80 49] Android, [000002C04D5FA200][000002C04CE58FC0 49] Android_Low, [000002C04E969C00][000002C04CE61140 49] Android_Mid, [000002C04D5F9300][000002C04CE652C0 49] Android_High, [000002C04E968E00][000002C04CE69440 49] Android_Default, [000002C04D5FB600][000002C04CE6D5C0 49] Android_Adreno4xx, [000002C04E968F00][000002C04CE71740 49] Android_Adreno5xx_Low, [000002C04D5FBB00][000002C04CE758C0 49] Android_Adreno5xx, [000002C04E96BA00][000002C04CE79A40 49] Android_Adreno6xx, [000002C04D5F8B00][000002C04CE7DBC0 49] Android_Adreno6xx_Vulkan, [000002C04E969900][000002C04CE801C0 49] Android_Mali_T6xx, [000002C04D5F8A00][000002C04CE84340 49] Android_Mali_T7xx, [000002C04D5A9A00][000002C04CE884C0 49] Android_Mali_T8xx, [000002C04D580500][000002C04CE8C640 49] Android_Mali_G71, [000002C04D5A8600][000002C04E2F67C0 49] Android_Mali_G72, [000002C04D580300][000002C04E2FA940 49] Android_Mali_G72_Vulkan, [000002C04D5AB900][000002C04E2FEAC0 49] Android_Mali_G76, [000002C04D581000][000002C04E302C40 49] Android_Mali_G76_Vulkan, [000002C04D5AA600][000002C04CE5CD80 49] Android_Mali_G77, [000002C04D582F00][000002C04E306EC0 49] Android_Mali_G77_Vulkan, [000002C04D5A8E00][000002C04E30B000 49] Android_Mali_G78, [000002C04D583100][000002C04E30F140 49] Android_Mali_G78_Vulkan, [000002C04D5A8800][000002C04E3172C0 49] Android_Mali_G710, [000002C04D582C00][000002C04E31B440 49] Android_Mali_G710_Vulkan, [000002C04D5ABC00][000002C04E31F5C0 49] Android_Vulkan_SM5, [000002C04D583500][000002C04E323740 49] Android_PowerVR_G6xxx, [000002C04D5A9F00][000002C04E3278C0 49] Android_PowerVR_GT7xxx, [000002C04D581D00][000002C04E32BA40 49] Android_PowerVR_GE8xxx, [000002C04D5AB300][000002C04E32FBC0 49] Android_PowerVR_GM9xxx, [000002C04D580800][000002C04E3321C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002C04D5AB700][000002C04E336340 49] Android_TegraK1, [000002C04D581200][000002C04E33A4C0 49] Android_Unknown_Vulkan, [000002C04D5AA900][000002C04E33E640 49] Lumin, [000002C04D583700][000002C04E3427C0 49] Lumin_Desktop, [000002C04D5AAE00][000002C04E346940 49] HoloLens, 
+[2021.12.01-13.23.03:205][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.01-13.23.03:205][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.01-13.23.03:205][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.01-13.23.03:205][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.01-13.23.03:205][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.01-13.23.03:317][  0]LogNetVersion: MS6026_Game_Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1253686235)
+[2021.12.01-13.23.08:463][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.01-13.23.08:740][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.01-13.23.08:746][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.01-13.23.08:746][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.12.01-13.23.08:746][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.01-13.23.10:792][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 23591DC24C126B82C25DCEA7A2A0B8D2 | Instance: E11DF865423EC272323909BACDCD13AA (DESKTOP-V7FN6FK-19988).
+[2021.12.01-13.23.11:092][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.11:092][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.11:164][  0]LogPython: Using Python 3.7.7
+[2021.12.01-13.23.13:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.01-13.23.13:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.01-13.23.14:248][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2021.12.01-13.23.14:248][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2021.12.01-13.23.14:248][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2021.12.01-13.23.14:800][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.14:800][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.14:835][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.14:854][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.14:902][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.14:959][  0]LogUProjectInfo: Found projects:
+[2021.12.01-13.23.15:970][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.01-13.23.16:183][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.01-13.23.16:202][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.01-13.23.16:202][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.01-13.23.17:294][  0]LogCollectionManager: Loaded 0 collections in 0.000789 seconds
+[2021.12.01-13.23.17:297][  0]LogFileCache: Scanning file cache for directory 'D:/MS6026_Game_Project/Saved/Collections/' took 0.00s
+[2021.12.01-13.23.17:297][  0]LogFileCache: Scanning file cache for directory 'D:/MS6026_Game_Project/Content/Developers/12sha/Collections/' took 0.00s
+[2021.12.01-13.23.17:297][  0]LogFileCache: Scanning file cache for directory 'D:/MS6026_Game_Project/Content/Collections/' took 0.00s
+[2021.12.01-13.23.17:348][  0]LogOcInput: OculusInput pre-init called
+[2021.12.01-13.23.17:722][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.17:722][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.17:854][  0]LogEngine: Initializing Engine...
+[2021.12.01-13.23.17:856][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.01-13.23.17:856][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.01-13.23.17:856][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.01-13.23.17:857][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.01-13.23.18:516][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.01-13.23.18:562][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.01-13.23.18:562][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.01-13.23.18:630][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.01-13.23.18:635][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.01-13.23.18:636][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.01-13.23.18:636][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-13.23.18:663][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-13.23.18:663][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-13.23.18:679][  0]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.12.01-13.23.18:680][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-13.23.18:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-13.23.18:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-13.23.18:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-13.23.18:699][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-13.23.18:699][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-13.23.18:700][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-13.23.18:700][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-13.23.18:700][  0]LogInit: FAudioDevice initialized.
+[2021.12.01-13.23.18:701][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.01-13.23.18:701][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.01-13.23.18:790][  0]LogDerivedDataCache: Saved boot cache 0.09s 103MB C:/Users/12sha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.01-13.23.18:791][  0]LogInit: Texture streaming: Enabled
+[2021.12.01-13.23.18:813][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.12.01-13.23.18:816][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.01-13.23.18:816][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.01-13.23.18:822][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.01-13.23.18:942][  0]LogInit: Transaction tracking system initialized
+[2021.12.01-13.23.19:029][  0]BlueprintLog: New page: Editor Load
+[2021.12.01-13.23.19:165][  0]LocalizationService: Localization service is disabled
+[2021.12.01-13.23.19:239][  0]TimingProfiler: Initialize
+[2021.12.01-13.23.19:239][  0]TimingProfiler: OnSessionChanged
+[2021.12.01-13.23.19:239][  0]LoadingProfiler: Initialize
+[2021.12.01-13.23.19:239][  0]LoadingProfiler: OnSessionChanged
+[2021.12.01-13.23.19:239][  0]NetworkingProfiler: Initialize
+[2021.12.01-13.23.19:239][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.01-13.23.19:239][  0]MemoryProfiler: Initialize
+[2021.12.01-13.23.19:239][  0]MemoryProfiler: OnSessionChanged
+[2021.12.01-13.23.21:092][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.01-13.23.21:092][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.01-13.23.21:697][  0]LogFileCache: Scanning file cache for directory 'D:/MS6026_Game_Project/Content/' took 0.01s
+[2021.12.01-13.23.22:244][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.22:244][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.01-13.23.22:288][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.01-13.23.22:311][  0]SourceControl: Source control is disabled
+[2021.12.01-13.23.22:429][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.01-13.38.51:982][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.12.01-13.38.56:469][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.12.01-13.38.56:473][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonCPP/Blueprints/MyNoiseSourcePawn
+/Game/ThirdPersonCPP/Blueprints/PlayerModel/Animations/PlayerAnimBP
+[2021.12.01-13.38.56:486][  0]LogUnrealEdMisc: Loading editor; pre map load, took 980.210
+[2021.12.01-13.38.56:486][  0]Cmd: MAP LOAD FILE="../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.01-13.38.56:487][  0]LightingResults: New page: Lighting Build
+[2021.12.01-13.38.56:563][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-13.38.56:563][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-13.38.56:563][  0]MapCheck: New page: Map Check
+[2021.12.01-13.38.56:563][  0]LightingResults: New page: Lighting Build
+[2021.12.01-13.38.56:569][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.01-13.38.56:572][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.01-13.38.56:838][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.56:838][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.56:906][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.56:906][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.56:906][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.56:906][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.56:906][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running': Can't find file.
+[2021.12.01-13.38.56:907][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerWalkRun_Blend.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking': Can't find file.
+[2021.12.01-13.38.57:435][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.57:435][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.57:436][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down.Jumping_Down Referenced by Default__PlayerAnimBP_1_C
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.57:436][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle.Falling_Idle Referenced by Default__PlayerAnimBP_1_C
+[2021.12.01-13.38.57:436][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.57:436][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting.Reacting Referenced by Default__PlayerAnimBP_1_C
+[2021.12.01-13.38.57:438][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.57:438][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting.Reacting Referenced by AnimGraphNode_SequencePlayer_0
+[2021.12.01-13.38.57:439][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.57:439][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle.Falling_Idle Referenced by AnimGraphNode_SequencePlayer_3
+[2021.12.01-13.38.57:439][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.57:439][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down.Jumping_Down Referenced by AnimGraphNode_SequencePlayer_4
+[2021.12.01-13.38.57:440][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle': Can't find file.
+[2021.12.01-13.38.57:440][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle.Neutral_Idle Referenced by PlayerWalkRun_Blend
+[2021.12.01-13.38.57:440][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running': Can't find file.
+[2021.12.01-13.38.57:440][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running.Running Referenced by PlayerWalkRun_Blend
+[2021.12.01-13.38.57:441][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking': Can't find file.
+[2021.12.01-13.38.57:441][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking.Walking Referenced by PlayerWalkRun_Blend
+[2021.12.01-13.38.57:449][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.12.01-13.38.57:449][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.12.01-13.38.57:450][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.12.01-13.38.57:451][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2021.12.01-13.38.57:451][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2021.12.01-13.38.57:451][  0]LogBlueprint: Error: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2021.12.01-13.38.57:461][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle': Can't find file.
+[2021.12.01-13.38.57:461][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down': Can't find file.
+[2021.12.01-13.38.57:461][  0]LogLinker: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Blueprints\PlayerModel\ModelBackUp\Backup_Anims\PlayerAnimBP_1.uasset: Failed to load '/Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting': Can't find file.
+[2021.12.01-13.38.57:656][  0]LogBlueprint: Warning: [AssetLog] D:\MS6026_Game_Project\Content\ThirdPersonCPP\Maps\ThirdPersonExampleMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.12.01-13.38.58:219][  0]LoadErrors: Error: The BlendSpace  PlayerWalkRun_Blend  has sample with no animation. Recommend to remove sample point or set new animation.
+[2021.12.01-13.38.58:222][  0]LoadErrors: Error: The BlendSpace  PlayerWalkRun_Blend  has sample with no animation. Recommend to remove sample point or set new animation.
+[2021.12.01-13.38.58:225][  0]LoadErrors: Error: The BlendSpace  PlayerWalkRun_Blend  has sample with no animation. Recommend to remove sample point or set new animation.
+[2021.12.01-13.38.58:231][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.12.01-13.38.58:232][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.01-13.38.58:292][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.01-13.38.58:303][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.12.01-13.38.58:303][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.01-13.38.58:304][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2021.12.01-13.38.58:304][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.817
+[2021.12.01-13.38.58:323][  0]LogUnrealEdMisc: Total Editor Startup Time, took 982.048
+[2021.12.01-13.38.58:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-13.38.58:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-13.38.58:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-13.38.58:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.01-13.38.58:556][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3833 classes and 930 folders.
+[2021.12.01-13.38.58:609][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.01-13.38.58:655][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.01-13.38.58:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.01-13.38.58:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.01-13.38.58:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.01-13.38.58:676][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.01-13.38.58:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.01-13.38.58:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.01-13.38.58:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.01-13.38.58:740][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.01-13.38.58:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.01-13.38.58:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.01-13.38.58:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.01-13.38.58:757][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.01-13.38.58:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.01-13.38.58:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.01-13.38.58:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.12.01-13.38.58:777][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.01-13.38.58:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.01-13.38.58:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.01-13.38.58:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.01-13.38.58:794][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.01-13.38.58:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.01-13.38.58:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.01-13.38.58:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.01-13.38.58:818][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.01-13.38.58:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.01-13.38.58:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.01-13.38.58:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.01-13.38.58:830][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.01-13.38.58:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.01-13.38.58:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.01-13.38.58:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.01-13.38.58:856][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.01-13.38.58:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.01-13.38.58:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.01-13.38.58:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.01-13.38.58:901][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.01-13.38.58:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.01-13.38.58:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.01-13.38.58:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.01-13.38.58:923][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.01-13.38.58:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.01-13.38.58:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.01-13.38.58:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.01-13.38.58:976][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.01-13.38.58:976][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.58:976][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.01-13.38.58:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.58:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.01-13.38.58:976][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.01-13.38.59:004][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.01-13.38.59:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.01-13.38.59:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.01-13.38.59:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.01-13.38.59:024][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.01-13.38.59:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.01-13.38.59:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.01-13.38.59:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.01-13.38.59:036][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.01-13.38.59:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.01-13.38.59:036][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:036][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.01-13.38.59:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.12.01-13.38.59:064][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.01-13.38.59:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.01-13.38.59:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.01-13.38.59:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.01-13.38.59:077][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.01-13.38.59:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.01-13.38.59:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.01-13.38.59:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.01-13.38.59:103][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.01-13.38.59:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.01-13.38.59:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.01-13.38.59:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.12.01-13.38.59:121][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.01-13.38.59:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.01-13.38.59:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.01-13.38.59:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.01-13.38.59:142][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.01-13.38.59:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.01-13.38.59:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.01-13.38.59:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.01-13.38.59:158][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.01-13.38.59:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.01-13.38.59:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.01-13.38.59:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.12.01-13.38.59:175][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.01-13.38.59:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.01-13.38.59:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.01-13.38.59:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.01-13.38.59:242][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.01-13.38.59:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.01-13.38.59:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.01-13.38.59:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.01-13.38.59:270][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.01-13.38.59:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.01-13.38.59:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.01-13.38.59:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.01-13.38.59:283][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.01-13.38.59:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.01-13.38.59:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.01-13.38.59:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.01-13.38.59:303][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.01-13.38.59:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.01-13.38.59:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.01-13.38.59:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.01-13.38.59:303][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.01-13.38.59:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.01-13.39.00:399][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.01-13.39.00:405][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.01-13.39.00:521][  0]LogSlate: Took 0.023531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.01-13.39.00:522][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.01-13.39.00:659][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.12.01-13.39.00:750][  0]LogSlate: Took 0.016008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.01-13.39.00:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.01-13.39.00:816][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.01-13.39.00:816][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.12.01-13.39.00:816][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.01-13.39.00:816][  0]LogLoad: (Engine Initialization) Total time: 984.54 seconds
+[2021.12.01-13.39.00:816][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.01-13.39.00:860][  0]LogAssetRegistry: Asset discovery search completed in 959.1217 seconds
+[2021.12.01-13.39.00:915][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.12.01-13.39.00:925][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.01-13.39.01:182][  0]LogSlate: Took 0.021211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.01-13.39.01:859][ 70]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.01-13.39.21:895][422]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-13.39.21:901][422]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-13.41.20:000][485]Cmd: EDIT COPY
+[2021.12.01-13.41.20:383][485]Cmd: EDIT PASTE
+[2021.12.01-13.41.23:566][857]Cmd: EDIT COPY
+[2021.12.01-13.41.23:799][883]Cmd: EDIT PASTE
+[2021.12.01-13.42.07:496][885]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.01-13.42.21:295][416]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-13.42.21:300][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-13.42.21:300][416]BlueprintLog: Warning: Blueprint failed to compile:  PlayerAnimBP_1
+[2021.12.01-13.42.21:421][416]LogCustomDialog: Dialog displayed:
+[2021.12.01-13.42.27:130][416]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.PlayerAnimBP_1
+[2021.12.01-13.42.27:142][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.12.01-13.42.27:185][416]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.01-13.42.27:437][416]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.01-13.42.27:567][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.01-13.42.27:568][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.12.01-13.42.28:356][416]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.01-13.42.32:698][416]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.12.01-13.42.32:792][416]LogSlate: Took 0.005207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.01-13.42.32:904][416]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.01-13.42.34:877][551]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-13.42.34:883][551]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-13.44.31:885][850]LogEditorFactories: Performing atomic reimport of [D:/UE4 Assets/Assets for MS6026/Animations/Player/Jump (1).fbx]
+[2021.12.01-13.44.31:967][850]LogFbx: Loading FBX Scene from D:/UE4 Assets/Assets for MS6026/Animations/Player/Jump (1).fbx
+[2021.12.01-13.44.31:988][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.31:990][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.32:102][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump__1_.Jump__1_
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.32:102][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.32:112][850]LogEditorFactories: -- imported successfully
+[2021.12.01-13.44.32:260][850]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Falling Idle.fbx)
+[2021.12.01-13.44.32:322][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Falling Idle.fbx
+[2021.12.01-13.44.32:341][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.56:732][850]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.56:745][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.56:746][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.56:746][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.56:830][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle.Falling_Idle
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.56:830][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.56:985][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Jump.fbx)
+[2021.12.01-13.44.57:003][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Jump.fbx
+[2021.12.01-13.44.57:023][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.57:025][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.57:026][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.57:202][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump.Jump
+[2021.12.01-13.44.57:202][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.57:202][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.57:202][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.57:202][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.57:203][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.57:249][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Jumping Down.fbx)
+[2021.12.01-13.44.57:257][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Jumping Down.fbx
+[2021.12.01-13.44.57:276][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.57:278][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.57:279][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.57:322][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.57:352][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Neutral Idle.fbx)
+[2021.12.01-13.44.57:361][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Neutral Idle.fbx
+[2021.12.01-13.44.57:390][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.57:391][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.57:392][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.57:392][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.58:134][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.58:167][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Reacting.fbx)
+[2021.12.01-13.44.58:201][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Reacting.fbx
+[2021.12.01-13.44.58:221][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.58:222][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.58:223][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.58:223][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.58:538][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.58:588][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Running.fbx)
+[2021.12.01-13.44.58:596][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Running.fbx
+[2021.12.01-13.44.58:615][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.58:616][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.58:617][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.58:617][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.58:680][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.44.58:712][850]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\UE4 Assets\Assets for MS6026\Animations\Player\Walking.fbx)
+[2021.12.01-13.44.58:720][850]LogFbx: Loading FBX Scene from D:\UE4 Assets\Assets for MS6026\Animations\Player\Walking.fbx
+[2021.12.01-13.44.58:738][850]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(0) Hips
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(1) Spine
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(2) Spine1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(3) Spine2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(4) Neck
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(5) Head
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(8) LeftArm
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(10) LeftHand
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(31) RightShoulder
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(32) RightArm
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(33) RightForeArm
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(34) RightHand
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(56) LeftLeg
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(57) LeftFoot
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(61) RightLeg
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(62) RightFoot
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(63) RightToeBase
+[2021.12.01-13.44.58:740][850]LogFbx: SortedLinks :(64) RightToe_End
+[2021.12.01-13.44.58:741][850]LogFbx: Parsing AnimStack mixamo.com
+[2021.12.01-13.44.58:839][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking.Walking
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Hips' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine1' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Spine2' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'Head' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftArm' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftHand' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightArm' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightHand' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftUpLeg' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftLeg' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'LeftFoot' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightUpLeg' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightLeg' 
+[2021.12.01-13.44.58:839][850]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'RightFoot' 
+[2021.12.01-13.45.04:688][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.12.01-13.45.06:008][380]LogSlate: Window 'Save Content' being destroyed
+[2021.12.01-13.45.06:056][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Falling_Idle4B8EA80949946C5A13D1F7BF0F8A786D.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle.uasset'
+[2021.12.01-13.45.06:092][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/JumpF13B221D4151445A29CD0B811FF88575.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump.uasset'
+[2021.12.01-13.45.06:105][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Jump__1_668D9F7344B046EBE8FAAB87F1EBE8E9.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump__1_.uasset'
+[2021.12.01-13.45.06:118][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Jumping_Down2A337ADC4360B7A26D2233B51B41E3A8.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down.uasset'
+[2021.12.01-13.45.06:133][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Neutral_Idle77697B254042814B9BCC1589005997F4.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle.uasset'
+[2021.12.01-13.45.06:174][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/PlayerAnimBP_14771126A465BFFB4055086A9A3C6E815.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.uasset'
+[2021.12.01-13.45.06:191][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Reacting25828FE14BCD1668CCC033B864483A7D.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting.uasset'
+[2021.12.01-13.45.06:204][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Running646215C7428AF81ED5D6D39A478FEE73.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running.uasset'
+[2021.12.01-13.45.06:222][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.12.01-13.45.06:260][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/ThirdPersonExampleMap77C6864D48D456793A55FD89E5164953.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.01-13.45.06:265][380]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.061
+[2021.12.01-13.45.06:279][380]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/Walking2BC5668F4204E2C480CC1ABA05543A37.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking.uasset'
+[2021.12.01-13.45.06:301][380]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.01-13.45.06:301][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump__1_.Jump__1_
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.PlayerAnimBP_1
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Falling_Idle.Falling_Idle
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump.Jump
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jumping_Down.Jumping_Down
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Neutral_Idle.Neutral_Idle
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Reacting.Reacting
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Running.Running
+[2021.12.01-13.45.06:302][380]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Walking.Walking
+[2021.12.01-13.45.13:308][907]BlueprintLog: New page: Compile PlayerAnimBP_1
+[2021.12.01-13.45.13:345][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.12.01-13.45.18:586][271]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerWalkRun_Blend.PlayerWalkRun_Blend
+[2021.12.01-13.45.18:597][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.01-13.45.19:082][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.01-13.46.03:880][116]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/PlayerWalkRun_BlendEE9920914DC46458BB4046B1E694C423.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerWalkRun_Blend.uasset'
+[2021.12.01-13.46.03:894][116]AssetCheck: New page: Asset Save: PlayerWalkRun_Blend
+[2021.12.01-13.46.03:894][116]LogContentValidation: Display: Validating BlendSpace1D /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerWalkRun_Blend.PlayerWalkRun_Blend
+[2021.12.01-13.46.13:468][845]BlueprintLog: New page: Compile PlayerAnimBP_1
+[2021.12.01-13.46.13:537][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.12.01-13.46.29:175][936]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/Jump__1_.Jump__1_
+[2021.12.01-13.46.31:504][ 49]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-13.46.31:504][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-13.46.31:517][ 49]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-13.46.31:518][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-13.46.31:590][ 49]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-13.46.31:590][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-13.46.40:243][634]BlueprintLog: New page: Compile PlayerAnimBP_1
+[2021.12.01-13.46.40:337][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.12.01-13.46.40:930][667]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/PlayerAnimBP_17D7A84A546F359D1C9D04E968B08E692.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.uasset'
+[2021.12.01-13.46.40:945][667]AssetCheck: New page: Asset Save: PlayerAnimBP_1
+[2021.12.01-13.46.40:945][667]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.PlayerAnimBP_1
+[2021.12.01-13.46.50:448][301]BlueprintLog: New page: Compile PlayerAnimBP_1
+[2021.12.01-13.46.50:519][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.01-13.46.51:558][360]LogSavePackage: Moving '../../../../../../../MS6026_Game_Project/Saved/PlayerAnimBP_1829812644ED86620AF6FF3AFC40EB8B0.tmp' to '../../../../../../../MS6026_Game_Project/Content/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.uasset'
+[2021.12.01-13.46.51:572][360]AssetCheck: New page: Asset Save: PlayerAnimBP_1
+[2021.12.01-13.46.51:572][360]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonCPP/Blueprints/PlayerModel/ModelBackUp/Backup_Anims/PlayerAnimBP_1.PlayerAnimBP_1
+[2021.12.01-13.47.10:639][157]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.01-13.47.10:644][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.01-13.47.10:661][157]PIE: New page: PIE session: ThirdPersonExampleMap (1 Dec 2021, 13:47:10)
+[2021.12.01-13.47.10:662][157]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.01-13.47.10:663][157]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.01-13.47.10:663][157]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.01-13.47.10:674][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010397s)
+[2021.12.01-13.47.10:675][157]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.01-13.47.10:675][157]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2021.12.01-13.47.10:675][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012131s)
+[2021.12.01-13.47.10:698][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.12.01-13.47.10:702][157]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.01-13.47.10:702][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.01-13.47.10:702][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.01-13.47.10:702][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.01-13.47.10:702][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.01-13.47.10:702][157]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.01-13.47.10:706][157]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.01-13.47.10:706][157]LogAudioMixer: Display: 1: FrontRight
+[2021.12.01-13.47.10:714][157]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.12.01-13.47.10:714][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.01-13.47.10:715][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.01-13.47.10:715][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.01-13.47.10:715][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.01-13.47.10:715][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.01-13.47.10:715][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.01-13.47.10:716][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.01-13.47.10:716][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.01-13.47.10:716][157]LogInit: FAudioDevice initialized.
+[2021.12.01-13.47.10:716][157]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.12.01-13.47.11:343][157]LogLoad: Game class is '6026_Game_Mode_C'
+[2021.12.01-13.47.11:345][157]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.12.01-13.47.11

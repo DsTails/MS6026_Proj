@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MS6026_Game_Project",
+			"Path": "D:\\MS6026_Game_Project\\Source\\MS6026_Game_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MS6026_Game_ProjectEditor",
+			"Path": "D:\\MS6026_Game_Project\\Source\\MS6026_Game_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
